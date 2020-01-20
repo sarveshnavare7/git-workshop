@@ -1,3 +1,4 @@
+ANDI MANDI SANDI LAGRI MERKO THANDI!!!
 class HelloWorld
   def initialize(name)
     @name = name.capitalize
